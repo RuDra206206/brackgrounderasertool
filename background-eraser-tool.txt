@@ -1,0 +1,6 @@
+/background-eraser-tool/
+│── index.html
+│── style.css
+│── script.js
+│── favicon.ico (optional)
+│── images/ (optional - for any additional images)
